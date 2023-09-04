@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/ManantsoaRayan/NFT-preview-card-component-Frontend-Mentor-challenge.git](https://github.com/ManantsoaRayan/NFT-preview-card-component-Frontend-Mentor-challenge.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://manantsoarayan.github.io/NFT-preview-card-component-Frontend-Mentor-challenge/](https://manantsoarayan.github.io/NFT-preview-card-component-Frontend-Mentor-challenge/)
 
 ## My process
 
